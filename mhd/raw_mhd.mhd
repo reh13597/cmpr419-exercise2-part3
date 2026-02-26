@@ -1,8 +1,0 @@
-NDims = 3
-DimSize = 512 512 40
-ElementSpacing = 0.388672 0.388672 2
-Position = 0 0 0
-ElementByteOrderMSB = 0
-ElementType = MET_USHORT
-HeaderSize = -1
-ElementDataFile = raw_mhd.raw

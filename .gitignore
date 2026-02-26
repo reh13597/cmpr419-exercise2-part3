@@ -1,1 +1,3 @@
 venv/
+data/dicom/dicom_slices/
+data/dicom/dicom_slices/._*
